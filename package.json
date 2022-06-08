@@ -1,0 +1,34 @@
+{
+  "name": "scraping-base.ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kawaji-r/scraping-base.ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kawaji-r/scraping-base.ts/issues"
+  },
+  "homepage": "https://github.com/kawaji-r/scraping-base.ts#readme",
+  "dependencies": {
+    "@playwright/test": "^1.22.2",
+    "prettier": "2.6.2"
+  },
+  "devDependencies": {
+    "jest": "^28.1.1",
+    "typescript": "^4.7.3"
+  },
+  "prettier": {
+    "printWidth": 120,
+    "tabWidth": 4,
+    "singleQuote": true,
+    "semi": false
+  }
+}
